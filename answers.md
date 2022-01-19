@@ -56,3 +56,23 @@ Date:   Wed Jan 19 16:35:26 2022 -0500
     Initial commit
 
 Answer 9:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 10: The online changes were not reflected
+
+Answer 11: When git push is typed I got an error that my push was rejected
+
+Answer 12: When git pull was used the online changes were reflected in my local file and no error was present
+
+Answer 13: 
+.  ..  .git  .gitignore  README.md
+
